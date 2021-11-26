@@ -1,0 +1,13 @@
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\bin\Debug\netcoreapp3.1\KataCodeVol3.exe
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\bin\Debug\netcoreapp3.1\KataCodeVol3.deps.json
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\bin\Debug\netcoreapp3.1\KataCodeVol3.runtimeconfig.json
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\bin\Debug\netcoreapp3.1\KataCodeVol3.runtimeconfig.dev.json
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\bin\Debug\netcoreapp3.1\KataCodeVol3.dll
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\bin\Debug\netcoreapp3.1\KataCodeVol3.pdb
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\obj\Debug\netcoreapp3.1\KataCodeVol3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\obj\Debug\netcoreapp3.1\KataCodeVol3.AssemblyInfoInputs.cache
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\obj\Debug\netcoreapp3.1\KataCodeVol3.AssemblyInfo.cs
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\obj\Debug\netcoreapp3.1\KataCodeVol3.csproj.CoreCompileInputs.cache
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\obj\Debug\netcoreapp3.1\KataCodeVol3.dll
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\obj\Debug\netcoreapp3.1\KataCodeVol3.pdb
+C:\Users\lervi\source\repos\KataVol3\KataCodeVol3\obj\Debug\netcoreapp3.1\KataCodeVol3.genruntimeconfig.cache
